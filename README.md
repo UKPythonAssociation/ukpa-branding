@@ -12,4 +12,4 @@ Similarly, SVGs should always be used before PNGs, and should be converted to a 
 
 ---
 
-The UK Python Association. Registered Charity in England and Wales No. 1173471
+The UK Python Association is a Charitable Incorporated Organisation (Registered Charity 1173471) registered in England and Wales
